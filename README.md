@@ -36,5 +36,8 @@ Aditya_Tiwary
 `Selenium WebDriver`
 `The Sparks Foundation`
 `ChromeDriver executable`
+## Output:
+![image](https://user-images.githubusercontent.com/83766476/232244073-b5f657ed-9b32-4c9a-a183-44e913ec0314.png)
+
 
 
