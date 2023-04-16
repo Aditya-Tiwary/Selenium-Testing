@@ -1,5 +1,6 @@
-# Selenium Testing with Java
-## Spark Foundation Test Automation
+# Web & Mobile Development Tasks
+# Task #6 Testing (Automated)
+## Spark Foundation Test Automation using Selenium Testing with Java
 This project contains automated test cases for the website https://www.thesparksfoundationsingapore.org/ using Selenium WebDriver and Java.
 ### Prerequisites
 1. Java Development Kit (JDK) version 19 or later
